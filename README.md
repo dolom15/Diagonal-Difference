@@ -1,1 +1,1 @@
-# Diagonal-Difference
+# Diagonal-Difference This code computes the absolute difference between the sums of the primary and secondary diagonals of a square matrix using the `diagonalDifference` function. It reads a 2D array from input, calculates the two diagonal sums, and outputs their absolute difference.
